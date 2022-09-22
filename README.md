@@ -28,5 +28,5 @@ Example program arguments: **1 0 192.173.1.135** - _This example will turn the S
 
 This library was based on the python library by tomasbedrich [^2].
 
-[^1]: https://jitpack.io/#lsallery/skydance/0.0.1
+[^1]: https://jitpack.io/#lsallery/skydance/
 [^2]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes
