@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc831a9e-c9fc-4b1e-aea7-1f2990ae22d6" name="Changes" comment="Built Skydance Driver in Kotlin">
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    <list default="true" id="fc831a9e-c9fc-4b1e-aea7-1f2990ae22d6" name="Changes" comment="Set up for publishing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/uk/co/sallery/Skydance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/uk/co/sallery/Skydance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +40,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="SkydanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uk.co.sallery.SkydanceKt" />
       <module name="Skydance.main" />
-      <option name="PROGRAM_PARAMETERS" value="1 0" />
+      <option name="PROGRAM_PARAMETERS" value="1 2" />
       <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663602104982</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Set up for publishing">
+      <created>1663602852880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663602852880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +99,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Built Skydance Driver in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Built Skydance Driver in Kotlin" />
+    <MESSAGE value="Set up for publishing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up for publishing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/uk/co/sallery/Skydance.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
