@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories.
 #### Step 2: Add the JitPack repository to your build file.
 
     dependencies {
-	        implementation 'com.github.lsallery:skydance:0.0.1'
+	        implementation 'com.github.lsallery:skydance:0.0.3'
 	}
     
 ## Usage
